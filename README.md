@@ -20,7 +20,7 @@ We also introduce two **domain-specific datasets** to support training and evalu
 
 ---
 
-## 🎯 Key Contributions
+## Key Contributions
 
 - A **novel pipeline** combining MSS and CMVMR for short video audio restoration
 - Two **publicly curated datasets** tailored for BGM separation and copyright research
