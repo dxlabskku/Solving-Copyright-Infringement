@@ -37,7 +37,7 @@ We also introduce two **domain-specific datasets** to support training and evalu
 
 ## Code
 
-The official code will be released **soon**. Stay tuned!
+The official code will be released **soon**.
 
 ---
 
